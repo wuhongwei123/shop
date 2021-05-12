@@ -1,0 +1,1 @@
+<view class="data-v-7ea503f4"><button type="primary" plain="{{true}}" open-type="getUserInfo" data-event-opts="{{[['tap',[['hanleGetUserInfo',['$event']]]]]}}" bindtap="__e" class="data-v-7ea503f4">获取授权</button></view>
